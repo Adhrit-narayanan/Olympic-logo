@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+#mycanvas{
+    border-width: 10px;
+    background-color:white;
+    border-style: double;
+    }  
+    #ap{
+        color: deepskyblue;
+    }  
